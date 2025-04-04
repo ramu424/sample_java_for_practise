@@ -1,2 +1,2 @@
-# sample_java_for_practise
-sample_java_for_practise
+# Simple Java Project
+This is a demo project that you can use with [Buddy Continuous Deployment](https://buddy.works).
